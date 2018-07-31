@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankApplication", "BankApplication\BankApplication.csproj", "{DFA53B69-D51D-469C-88AE-0CE0B21CC69A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDatabaseLiabrary", "MyDatabaseLiabrary\MyDatabaseLiabrary.csproj", "{3B95975B-480D-4BE9-9842-8348394F541F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDatabaseLibrary", "MyDatabaseLibrary\MyDatabaseLibrary.csproj", "{980C8A24-3882-4ECA-AA1E-DE4EE4509D6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{DFA53B69-D51D-469C-88AE-0CE0B21CC69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFA53B69-D51D-469C-88AE-0CE0B21CC69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFA53B69-D51D-469C-88AE-0CE0B21CC69A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3B95975B-480D-4BE9-9842-8348394F541F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B95975B-480D-4BE9-9842-8348394F541F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B95975B-480D-4BE9-9842-8348394F541F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B95975B-480D-4BE9-9842-8348394F541F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980C8A24-3882-4ECA-AA1E-DE4EE4509D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980C8A24-3882-4ECA-AA1E-DE4EE4509D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980C8A24-3882-4ECA-AA1E-DE4EE4509D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980C8A24-3882-4ECA-AA1E-DE4EE4509D6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
